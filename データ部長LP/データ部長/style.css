@@ -69,7 +69,7 @@ header nav ul li a:hover {
 
 /* topここから */
 .top-wrap {
-  background-image: url(../素材/top/pc-bg.png);
+  background-image: url(https://github.com/akane917/deta/blob/main/%E3%83%86%E3%82%99%E3%83%BC%E3%82%BF%E9%83%A8%E9%95%B7LP/%E7%B4%A0%E6%9D%90/top/pc-bg.png?raw=true);
   background-repeat: no-repeat;
   background-size: cover;
   max-width: 100%;
@@ -582,7 +582,7 @@ header nav ul li a:hover {
 /* DLここから */
 
 .dl {
-  background-image: url(../素材/dl/dl-bg.png);
+  background-image: url(https://github.com/akane917/deta/blob/main/%E3%83%86%E3%82%99%E3%83%BC%E3%82%BF%E9%83%A8%E9%95%B7LP/%E7%B4%A0%E6%9D%90/dl/dl-bg.png?raw=true);
   background-repeat: no-repeat;
   background-size: cover;
   padding: 100px 0;
@@ -596,13 +596,13 @@ header nav ul li a:hover {
 }
 
 .dl h3::before {
-  content: url(../素材/dl/\ bf_.png);
+  content: url(https://github.com/akane917/deta/blob/main/%E3%83%86%E3%82%99%E3%83%BC%E3%82%BF%E9%83%A8%E9%95%B7LP/%E7%B4%A0%E6%9D%90/dl/%20bf_.png?raw=true);
   padding-right: 10px;
   vertical-align: text-bottom;
 }
 
 .dl h3::after {
-  content: url(../素材/dl/af_.png);
+  content: url(https://github.com/akane917/deta/blob/main/%E3%83%86%E3%82%99%E3%83%BC%E3%82%BF%E9%83%A8%E9%95%B7LP/%E7%B4%A0%E6%9D%90/dl/af_.png?raw=true);
   padding-left: 10px;
   vertical-align: text-bottom;
 }
@@ -1596,7 +1596,7 @@ header nav ul li a:hover {
 @media (max-width: 987px) {
 
   .top-wrap {
-    background-image: url(../素材/top/pc2-bg.png);
+    background-image: url(https://github.com/akane917/deta/blob/main/%E3%83%86%E3%82%99%E3%83%BC%E3%82%BF%E9%83%A8%E9%95%B7LP/%E7%B4%A0%E6%9D%90/top/pc2-bg.png?raw=true);
     background-size: cover;
   }
 
@@ -1643,7 +1643,7 @@ header nav ul li a:hover {
   /* canここから */
 
   .can-wrap {
-    background-image: url(../素材/can/tb-bg.png);
+    background-image: url(https://github.com/akane917/deta/blob/main/%E3%83%86%E3%82%99%E3%83%BC%E3%82%BF%E9%83%A8%E9%95%B7LP/%E7%B4%A0%E6%9D%90/top/tb-bg.png?raw=true);
   }
 
   .can-wrap .sb {
@@ -1874,7 +1874,7 @@ header nav ul li a:hover {
   @media (max-width: 860px) {
 
     .top-wrap {
-      background-image: url(../素材/top/pc2-bg.png);
+      background-image: url(https://github.com/akane917/deta/blob/main/%E3%83%86%E3%82%99%E3%83%BC%E3%82%BF%E9%83%A8%E9%95%B7LP/%E7%B4%A0%E6%9D%90/top/pc2-bg.png?raw=true);
       background-repeat: no-repeat;
       background-size: contain;
       max-width: 100%;
@@ -1949,7 +1949,7 @@ header nav ul li a:hover {
   @media (max-width: 801px) {
 
     .top-wrap {
-      background-image: url(../素材/top/tb-bg.png);
+      background-image: url(https://github.com/akane917/deta/blob/main/%E3%83%86%E3%82%99%E3%83%BC%E3%82%BF%E9%83%A8%E9%95%B7LP/%E7%B4%A0%E6%9D%90/top/tb-bg.png?raw=true);
       background-size: contain;
     }
 
@@ -2202,7 +2202,7 @@ header nav ul li a:hover {
 
   @media (max-width: 414px) {
     .top-wrap {
-      background-image: url(../素材/top/ph-bg.png);
+      background-image: url(https://github.com/akane917/deta/blob/main/%E3%83%86%E3%82%99%E3%83%BC%E3%82%BF%E9%83%A8%E9%95%B7LP/%E7%B4%A0%E6%9D%90/top/ph-bg.png?raw=true);
       background-repeat: no-repeat;
       background-size: contain;
       max-width: 100%;
@@ -2396,7 +2396,7 @@ header nav ul li a:hover {
     /* canここから*/
 
     .can-wrap {
-      background-image: url(../素材/can/can-bg.png);
+      background-image: url(https://github.com/akane917/deta/blob/main/%E3%83%86%E3%82%99%E3%83%BC%E3%82%BF%E9%83%A8%E9%95%B7LP/%E7%B4%A0%E6%9D%90/can/can-bg.png?raw=true);
     }
 
     .can-wrap .sb {
@@ -2709,7 +2709,7 @@ header nav ul li a:hover {
 
   @media (max-width: 375px) {
     .top-wrap {
-      background-image: url(../素材/top/ph-bg.png);
+      background-image: url(https://github.com/akane917/deta/blob/main/%E3%83%86%E3%82%99%E3%83%BC%E3%82%BF%E9%83%A8%E9%95%B7LP/%E7%B4%A0%E6%9D%90/top/ph-bg.png?raw=true);
       background-repeat: no-repeat;
       background-size: cover;
       max-width: 100%;
